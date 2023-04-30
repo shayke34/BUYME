@@ -50,7 +50,7 @@ public class BaseTest {
     static RegisterFlow RegisterFlow;
     static SearchPageFlow SearchPageFlow;
     public String getXmlPath;
-    static String reportPath="C:\\Users\\shayg\\IdeaProjects\\BUYME\\report\\testReport.html";
+    static String reportPath="C:\\Users\\shayg\\IdeaProjects\\BUYME\\src\\data\\testReport.html";
     static String imagePath="C:\\Users\\shayg\\IdeaProjects\\BUYME\\images\\";
     static ExtentTest myTests;
     static ExtentReports extent;
