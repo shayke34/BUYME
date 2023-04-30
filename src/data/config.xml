@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<browser>Chrome</browser>
+<regFirstName>שייקה</regFirstName>
+<regEmail>zaazzaaaszffs123433@gmail.com</regEmail>
+<regPassword>Shaybeni2</regPassword>
+<regCheckPassword>Shaybeni2</regCheckPassword>
+<amountGiftCard>100</amountGiftCard>
+<receiverGiftNameField>משה</receiverGiftNameField>
+<congratulateField>מזל טוב יחביבי</congratulateField>
+<phoneReceiverField>0504242776</phoneReceiverField>
+<whoIsTheGiftFromField>חיים</whoIsTheGiftFromField>
+<SenderGiftPhoneField>0504242774</SenderGiftPhoneField>
+<homePageUrl>https://buyme.co.il/</homePageUrl>
+<registerUrl>https://buyme.co.il/?modal=login</registerUrl>
+<resultUrl>https://buyme.co.il/search?budget=3&amp;category=22&amp;region=9</resultUrl>
+<productUrl>https://buyme.co.il/supplier/398383?budget=3&amp;category=22&amp;query=&amp;region=9</productUrl>
+<inviteUrl>money</inviteUrl>
+<invite2Url>step=2</invite2Url>
+<confirmUrl>step=3</confirmUrl>
+</config>
